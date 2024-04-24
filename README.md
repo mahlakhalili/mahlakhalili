@@ -5,10 +5,10 @@
 </p>
 
 ## 💫  About Me
-- 🌱 I’m currently working for ....
-- 🔭 I’m currently working on my ...
-- 👯 I’m looking to ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working as a front-end freelancer
+- 🔭 I’m currently working on freelance projects and control-panels
+- 👯 I’m looking for collaborate on react projects
+- 🌱 I’m currently learning React.js and Next.js
 
 ## 🌐 Socials
 
