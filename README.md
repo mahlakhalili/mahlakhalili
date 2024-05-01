@@ -8,7 +8,7 @@
 - 🌱 I’m currently working as a Front-End freelancer
 - 🔭 I’m currently working on freelance projects and control-panels
 - 👯 I’m looking for collaborate on react projects
-- 🌱 I’m currently learning React.js and Next.js and Python:))
+- 🌱 I’m currently learning React.js and ReactNative
 
 ## 🌐 Socials
 
