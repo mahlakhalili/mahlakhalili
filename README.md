@@ -55,16 +55,9 @@
 <br>
 
 
-## ⚡ Activity Graph ::
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahlakhalili&theme=gotham&hide_border=true"/>
-
-## 🏆 GitHub Trophies ::
-
-![](https://github-profile-trophy.vercel.app/?username=mahlakhalili&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 
-<br>
+
 
 <!--
 **Mahlakhalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
