@@ -48,8 +48,7 @@
  
 ## 📊 GitHub Stats ::
 
-<!-- StreakStats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahlakhalili&theme=gotham&hide_border=false)<br/>
+
 <!-- TopLanguages -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahlakhalili&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
