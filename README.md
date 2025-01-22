@@ -16,32 +16,9 @@
 
 <br>
 
-## 💻 Tech Stack ::
 
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;&nbsp;
-![Next](https://img.shields.io/badge/next-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-8310f9?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
 
-<br>
 
-## 🚀 I Code with ⚡✨ ::
-
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="figma" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-8310f9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />&nbsp;&nbsp;
 
 <br>
 
