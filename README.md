@@ -10,19 +10,8 @@
 - 👯 I’m looking for collaborate on react projects
 - 🌱 I’m currently learning React.js and ReactNative
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahla-khalili-0b276b235/)
-
 <br>
 
-
-
-
-
-<br>
-
- 
 ## 📊 GitHub Stats ::
 
 
